@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Results from './Results';
 import Search from './Search';
-import "bootstrap/dist/css/bootstrap.min.css";
 import { MLProvider } from './ML';
 
 const el = document.getElementById('root');

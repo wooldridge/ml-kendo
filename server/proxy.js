@@ -16,7 +16,7 @@ const HOST = config.host;
 const API_URL = "http://" + config.host + ":" + config.rest["rest-api"].port;
 
 
-app.get('/v1/documents', createProxyMiddleware({
+app.get('/v1/*', createProxyMiddleware({
     target: API_URL,
     changeOrigin: true,
     auth: config.user["user-name"] + ":" + config.user.password
