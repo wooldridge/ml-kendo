@@ -3,304 +3,287 @@
   <personId>10057</personId>
   <nameGroup>
     <givenname>
-      <value>Thomasin</value>
+      <value>Cordelie</value>
     </givenname>
     <surname>
-      <value>Yarmouth</value>
+      <value>Almack</value>
     </surname>
     <fullname>
-      <classification>C</classification>
+      <classification>S</classification>
       <restricted>true</restricted>
-      <value>Yarmouth Thomasin</value>
+      <value>Cordelie Almack </value>
       <source>
         <name>Washington Post</name>
-        <ts>2021-10-25T18:39:59Z</ts>
+        <ts>2020-07-31T12:36:20Z</ts>
       </source>
       <source>
-        <name>New York Times</name>
-        <ts>2018-03-21T00:23:35Z</ts>
-      </source>
-      <source>
-        <name>Wall Street Journal</name>
-        <ts>2016-05-03T06:40:29Z</ts>
+        <name>Chicago Tribune</name>
+        <ts>2013-02-14T01:54:30Z</ts>
       </source>
     </fullname>
   </nameGroup>
   <emails>
     <email>
-      <value>fslidders0@homestead.com</value>
-      <classification>C</classification>
-      <restricted>false</restricted>
-    </email>
-    <email>
-      <value>hwareham1@redcross.org</value>
+      <value>pkelshaw0@statcounter.com</value>
       <classification>U</classification>
       <restricted>false</restricted>
     </email>
     <email>
-      <value>svalenssmith2@irs.gov</value>
+      <value>sninnis1@yolasite.com</value>
       <classification>C</classification>
       <restricted>false</restricted>
     </email>
+    <email>
+      <value>ljanny2@facebook.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
   </emails>
-  <phone>913-831-1242</phone>
+  <phone>968-631-4967</phone>
   <contacts>
     <contact>
       <type>phone</type>
-      <value>423-904-3546</value>
-    </contact>
-    <contact>
-      <type>email</type>
-      <value>pwillbraham1@google.de</value>
+      <value>555-524-4177</value>
     </contact>
     <contact>
       <type>phone</type>
-      <value>330-506-0755</value>
+      <value>408-868-8543</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>468-367-1695</value>
     </contact>
   </contacts>
   <ssn>
-    <value>791-98-7440</value>
+    <value>149-80-8777</value>
     <classification>(S)</classification>
   </ssn>
   <images>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <url>/images/persons/person-02.jpg</url>
       <source>
-        <name>New York Times</name>
-        <ts>2015-10-07T20:56:01Z</ts>
-        <uploadedBy>fphittiplace0</uploadedBy>
+        <name>Chicago Tribune</name>
+        <ts>2012-09-01T12:04:25Z</ts>
+        <uploadedBy>aabotson0</uploadedBy>
       </source>
     </image>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</url>
+      <url>/images/persons/person-02.jpg</url>
       <source>
         <name>Chicago Tribune</name>
-        <ts>2013-07-09T19:05:28Z</ts>
-        <uploadedBy>tdebell0</uploadedBy>
+        <ts>2011-05-02T17:09:53Z</ts>
+        <uploadedBy/>
       </source>
     </image>
   </images>
   <addresses>
     <address>
-      <street>0 Shelley Place</street>
-      <city>Detroit</city>
-      <state>MI</state>
-      <postal>48224</postal>
+      <street>178 Becker Pass</street>
+      <city>Arvada</city>
+      <state>CO</state>
+      <postal>80005</postal>
       <country>United States</country>
-      <latitude>42.4098</latitude>
-      <longitude>-82.9441</longitude>
-    </address>
-    <address>
-      <street>176 Armistice Road</street>
-      <city>Omaha</city>
-      <state>NE</state>
-      <postal>68144</postal>
-      <country>United States</country>
-      <latitude>41.2335</latitude>
-      <longitude>-96.1188</longitude>
-    </address>
-    <address>
-      <street>3 Norway Maple Point</street>
-      <city>Orlando</city>
-      <state>FL</state>
-      <postal>32868</postal>
-      <country>United States</country>
-      <latitude>28.5663</latitude>
-      <longitude>-81.2608</longitude>
+      <latitude>39.8422</latitude>
+      <longitude>-105.1097</longitude>
     </address>
   </addresses>
   <schools>
     <school>
-      <country>United States</country>
-      <name>The American College</name>
-      <city>Oklahoma City</city>
-      <state>OK</state>
-      <postal>73135</postal>
-      <latitude>35.3922378</latitude>
-      <longitude>-97.4273195</longitude>
+      <country>Canada</country>
+      <name>Algonquin College</name>
+      <city>Penhold</city>
+      <state>AB</state>
+      <postal>L2E</postal>
+      <latitude>52.13342</latitude>
+      <longitude>-113.8687</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2020-07-20T22:05:08Z</ts>
-      </source>
-    </school>
-    <school>
-      <country>Mexico</country>
-      <name>Universidad Veracruzana</name>
-      <city>Benito Juarez</city>
-      <state>MOR</state>
-      <postal>62214</postal>
-      <latitude>22.2016816</latitude>
-      <longitude>-97.8367954</longitude>
-      <source>
-        <name>USA Today</name>
-        <ts>2011-07-20T06:19:23Z</ts>
+        <ts>2020-10-13T10:30:03Z</ts>
       </source>
       <source>
         <name>New York Times</name>
-        <ts>2019-06-07T22:30:48Z</ts>
+        <ts>2012-05-06T23:24:46Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Canada</country>
+      <name>Trent University</name>
+      <city>Les Cèdres</city>
+      <state>QC</state>
+      <postal>J6S</postal>
+      <latitude>45.3095043</latitude>
+      <longitude>-74.0590779</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-11-10T05:48:05Z</ts>
       </source>
     </school>
   </schools>
-  <status>Active</status>
+  <status>Inactive</status>
   <sources>
     <source>
-      <name>Chicago Tribune</name>
-      <ts>2014-06-23T06:55:44Z</ts>
+      <name>Washington Post</name>
+      <ts>2017-02-03T02:06:24Z</ts>
     </source>
   </sources>
   <sources>
     <source>
-      <name>Wall Street Journal</name>
-      <ts>2021-07-14T16:19:59Z</ts>
+      <name>USA Today</name>
+      <ts>2010-08-06T15:27:18Z</ts>
     </source>
   </sources>
   <relations>
     <relation>
-      <id>/person/10080.xml</id>
-      <predicate>relatedTo</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
-      <fullname>Chesterman Adriane</fullname>
-      <city>Helena</city>
-      <state>MT</state>
-    </relation>
-    <relation>
-      <id>/person/10079.xml</id>
+      <id>/person/10086.xml</id>
       <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
-      <fullname>Sumpton Ravid</fullname>
-      <city>Washington</city>
-      <state>DC</state>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Lexy Lewry </fullname>
+      <city>New Haven</city>
+      <state>CT</state>
     </relation>
     <relation>
-      <id>/person/10048.xml</id>
+      <id>/person/10043.xml</id>
       <predicate>relatedTo</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
-      <fullname>Schwerin Salomone</fullname>
-      <city>Alhambra</city>
-      <state>CA</state>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Oran Cane </fullname>
+      <city>Biloxi</city>
+      <state>MS</state>
     </relation>
   </relations>
   <createdOn>
-    <ts>2022-02-22T12:50:46Z</ts>
-    <user>tyarmouth1k</user>
+    <ts>2022-02-08T07:16:37Z</ts>
+    <user>calmack1k</user>
   </createdOn>
   <lastUpdated>
-    <ts>2022-01-15T22:10:29Z</ts>
-    <user>tyarmouth1k</user>
+    <ts>2022-01-05T12:37:39Z</ts>
+    <user>calmack1k</user>
   </lastUpdated>
-  <socials>
-    <social>
-      <site>facebook</site>
-      <handle>bburthom0</handle>
-      <address>https://cisco.com/mattis/nibh/ligula/nec.html</address>
-    </social>
-    <social>
-      <site>linkedin</site>
-      <handle/>
-      <address>http://webeden.co.uk/in/porttitor.html</address>
-    </social>
-    <social>
-      <site>twitter</site>
-      <handle>kgiffard2</handle>
-      <address>https://usgs.gov/nullam/orci/pede/venenatis.html</address>
-    </social>
-  </socials>
+  <socials/>
   <memberships>
     <membership>
-      <list>list9</list>
+      <list>list12</list>
       <important>true</important>
-      <ts>2022-01-07</ts>
+      <ts>2022-01-29</ts>
     </membership>
     <membership>
-      <list>list3</list>
-      <important>true</important>
-      <ts>2022-01-03</ts>
-    </membership>
-    <membership>
-      <list>list5</list>
+      <list>list8</list>
       <important>false</important>
-      <ts>2022-02-04</ts>
-    </membership>
-    <membership>
-      <list>list7</list>
-      <important>false</important>
-      <ts>2022-01-22</ts>
-    </membership>
-    <membership>
-      <list>list11</list>
-      <important>false</important>
-      <ts>2022-02-23</ts>
+      <ts>2022-02-07</ts>
     </membership>
     <membership>
       <list>list1</list>
       <important>true</important>
-      <ts>2022-01-17</ts>
+      <ts>2022-01-31</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-05</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-24</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-02-22</ts>
     </membership>
   </memberships>
   <links>
     <link>
       <label>Quick View</label>
-      <url>http://mediafire.com</url>
+      <url>http://godaddy.com</url>
       <icon>faEye</icon>
     </link>
     <link>
       <label>Nomination History</label>
-      <url>https://biglobe.ne.jp</url>
+      <url>https://simplemachines.org</url>
       <icon>faMedal</icon>
     </link>
     <link>
       <label>Comments</label>
-      <url>https://joomla.org</url>
+      <url>http://homestead.com</url>
       <icon>faComments</icon>
     </link>
   </links>
   <activities>
     <activity>
-      <predicate>endedAt</predicate>
-      <place>Reallinks</place>
-      <predplace>endedAt Reallinks</predplace>
-      <ts>2015-04-11T08:19:58Z</ts>
+      <predicate>movedTo</predicate>
+      <place>Lazz</place>
+      <predplace>movedTo Lazz</predplace>
+      <ts>2018-01-14T06:53:53Z</ts>
       <source>
         <name>USA Today</name>
-        <ts>2021-01-23T22:35:50Z</ts>
-        <createdBy>Ricki Charlewood</createdBy>
-        <approvedBy>Misha Ragdale</approvedBy>
+        <ts>2020-06-04T16:36:15Z</ts>
+        <createdBy>Jorge Affuso</createdBy>
+        <approvedBy>Darb Dumbreck</approvedBy>
       </source>
     </activity>
     <activity>
-      <predicate>movedTo</predicate>
-      <place>Yakidoo</place>
-      <predplace>movedTo Yakidoo</predplace>
-      <ts>2017-08-07T13:44:49Z</ts>
+      <predicate>transferredTo</predicate>
+      <place>Brainlounge</place>
+      <predplace>transferredTo Brainlounge</predplace>
+      <ts>2017-12-02T22:46:13Z</ts>
       <source>
         <name>New York Times</name>
-        <ts>2020-09-06T09:50:09Z</ts>
-        <createdBy>Cornie Conichie</createdBy>
-        <approvedBy>Ingrid Hauxby</approvedBy>
+        <ts>2022-01-12T19:37:47Z</ts>
+        <createdBy>Giff Jesper</createdBy>
+        <approvedBy>Aubrette Severwright</approvedBy>
       </source>
     </activity>
   </activities>
   <events>
     <event>
       <predicate>visited</predicate>
-      <place>Poland</place>
-      <predplace>visited Poland</predplace>
-      <end>2018-03-05T01:33:46Z</end>
-      <start>2015-12-10T02:53:43Z</start>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2018-05-11T15:17:06Z</end>
+      <start>2014-09-14T19:31:21Z</start>
     </event>
   </events>
   <actions>
     <action>
-      <url>http://de.vu</url>
+      <url>http://bizjournals.com</url>
       <icon>faCog</icon>
     </action>
     <action>
-      <url>http://pen.io</url>
+      <url>http://bandcamp.com</url>
       <icon>faCode</icon>
     </action>
     <action>
-      <url>http://oracle.com</url>
+      <url>https://hibu.com</url>
       <icon>faSync</icon>
     </action>
   </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10057.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10057</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10057.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Cordelie</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10057.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Almack</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10057.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10086.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10057.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10043.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
 </person>

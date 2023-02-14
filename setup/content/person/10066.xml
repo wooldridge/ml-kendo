@@ -3,259 +3,304 @@
   <personId>10066</personId>
   <nameGroup>
     <givenname>
-      <value>Janelle</value>
+      <value>Giulia</value>
     </givenname>
     <surname>
-      <value>Arton</value>
+      <value>Calles</value>
     </surname>
     <fullname>
-      <classification>U</classification>
+      <classification>C</classification>
       <restricted>false</restricted>
-      <value>Arton Janelle</value>
+      <value>Giulia Calles </value>
       <source>
-        <name>New York Times</name>
-        <ts>2019-06-20T14:57:13Z</ts>
+        <name>Los Angeles Times</name>
+        <ts>2017-05-07T19:39:40Z</ts>
       </source>
       <source>
         <name>USA Today</name>
-        <ts>2018-06-02T08:03:37Z</ts>
+        <ts>2015-11-30T00:36:10Z</ts>
       </source>
     </fullname>
   </nameGroup>
   <emails>
     <email>
-      <value>jmckyrrelly0@google.es</value>
-      <classification>U</classification>
+      <value>growles0@amazon.de</value>
+      <classification>C</classification>
       <restricted>false</restricted>
     </email>
   </emails>
-  <phone>436-456-4465</phone>
+  <phone>873-576-3954</phone>
   <contacts>
     <contact>
-      <type>email</type>
-      <value>sescot0@reference.com</value>
+      <type>phone</type>
+      <value>402-837-0641</value>
     </contact>
     <contact>
       <type>email</type>
-      <value>klorenzin1@meetup.com</value>
+      <value>mdanell1@bravesites.com</value>
     </contact>
     <contact>
-      <type>email</type>
-      <value>tgodney2@wisc.edu</value>
+      <type>phone</type>
+      <value>642-839-4439</value>
     </contact>
   </contacts>
   <ssn>
-    <value>324-23-1381</value>
+    <value>844-04-5735</value>
     <classification>(S)</classification>
   </ssn>
   <images>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <url>/images/persons/person-10.jpg</url>
       <source>
-        <name>New York Times</name>
-        <ts>2011-11-25T13:38:26Z</ts>
-        <uploadedBy>kinnerstone0</uploadedBy>
+        <name>USA Today</name>
+        <ts>2021-04-17T16:10:41Z</ts>
+        <uploadedBy>riannuzzelli0</uploadedBy>
       </source>
     </image>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</url>
+      <url>/images/persons/person-03.jpg</url>
       <source>
-        <name>Washington Post</name>
-        <ts>2020-07-14T07:22:55Z</ts>
-        <uploadedBy>dwinterbotham0</uploadedBy>
+        <name>New York Times</name>
+        <ts>2017-01-06T23:06:36Z</ts>
+        <uploadedBy>rsmickle0</uploadedBy>
       </source>
     </image>
   </images>
   <addresses>
     <address>
-      <street>30357 Coleman Street</street>
-      <city>Cheyenne</city>
-      <state>WY</state>
-      <postal>82007</postal>
+      <street>40 Havey Circle</street>
+      <city>Jackson</city>
+      <state>MS</state>
+      <postal>39296</postal>
       <country>United States</country>
-      <latitude>41.1084</latitude>
-      <longitude>-104.8107</longitude>
-    </address>
-    <address>
-      <street>52 Marquette Park</street>
-      <city>Virginia Beach</city>
-      <state>VA</state>
-      <postal>23454</postal>
-      <country>United States</country>
-      <latitude>36.8282</latitude>
-      <longitude>-76.0237</longitude>
+      <latitude>32.3113</latitude>
+      <longitude>-90.3972</longitude>
     </address>
   </addresses>
   <schools>
     <school>
       <country>United States</country>
-      <name>DeVry Institute of Technology, Phoenix</name>
-      <city>Chicago</city>
-      <state>IL</state>
-      <postal>60663</postal>
-      <latitude>34.5259004</latitude>
-      <longitude>-117.0625875</longitude>
+      <name>Albany Law School</name>
+      <city>Charlotte</city>
+      <state>NC</state>
+      <postal>28210</postal>
+      <latitude>35.1274285</latitude>
+      <longitude>-80.8599193</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2016-03-31T15:24:39Z</ts>
+        <ts>2021-01-13T23:31:58Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-06-08T02:35:03Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Air Force Institute of Technology</name>
+      <city>Kansas City</city>
+      <state>MO</state>
+      <postal>64125</postal>
+      <latitude>39.1070379</latitude>
+      <longitude>-94.4928531</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-06-26T14:48:32Z</ts>
       </source>
     </school>
   </schools>
   <status>Inactive</status>
   <sources>
     <source>
-      <name>Wall Street Journal</name>
-      <ts>2019-05-22T19:00:32Z</ts>
-    </source>
-  </sources>
-  <sources>
-    <source>
-      <name>Wall Street Journal</name>
-      <ts>2017-09-08T18:29:11Z</ts>
-    </source>
-  </sources>
-  <sources>
-    <source>
-      <name>Wall Street Journal</name>
-      <ts>2014-07-13T09:39:08Z</ts>
+      <name>Washington Post</name>
+      <ts>2018-06-26T21:04:43Z</ts>
     </source>
   </sources>
   <relations>
     <relation>
-      <id>/person/10076.xml</id>
-      <predicate>worksWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
-      <fullname>Morfett Minnaminnie</fullname>
-      <city>Colorado Springs</city>
-      <state>CO</state>
-    </relation>
-    <relation>
-      <id>/person/10004.xml</id>
-      <predicate>relatedTo</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
-      <fullname>Morriarty Anatol</fullname>
-      <city>Virginia Beach</city>
-      <state>VA</state>
-    </relation>
-    <relation>
-      <id>/person/10089.xml</id>
+      <id>/person/10093.xml</id>
       <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
-      <fullname>Waywell Kaleb</fullname>
-      <city>Miami</city>
-      <state>FL</state>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Isobel Pharoah </fullname>
+      <city>Dayton</city>
+      <state>OH</state>
+    </relation>
+    <relation>
+      <id>/person/10023.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Bronson Hatherleigh </fullname>
+      <city>Reno</city>
+      <state>NV</state>
+    </relation>
+    <relation>
+      <id>/person/10011.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Reinald Gierke </fullname>
+      <city>Indianapolis</city>
+      <state>IN</state>
     </relation>
   </relations>
   <createdOn>
-    <ts>2022-02-21T02:52:51Z</ts>
-    <user>jarton1t</user>
+    <ts>2022-02-13T03:24:18Z</ts>
+    <user>gcalles1t</user>
   </createdOn>
   <lastUpdated>
-    <ts>2022-01-28T19:02:28Z</ts>
-    <user>jarton1t</user>
+    <ts>2022-02-16T02:05:05Z</ts>
+    <user>gcalles1t</user>
   </lastUpdated>
-  <socials/>
-  <memberships/>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>jkinney0</handle>
+      <address>http://sbwire.com/donec/odio/justo/sollicitudin/ut.js</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>kconring1</handle>
+      <address>http://g.co/proin/risus/praesent/lectus/vestibulum/quam.xml</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-30</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-25</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-01-11</ts>
+    </membership>
+  </memberships>
   <links>
     <link>
       <label>Quick View</label>
-      <url>http://is.gd</url>
+      <url>https://sourceforge.net</url>
       <icon>faEye</icon>
     </link>
     <link>
       <label>Nomination History</label>
-      <url>https://businesswire.com</url>
+      <url>http://blogspot.com</url>
       <icon>faMedal</icon>
     </link>
     <link>
       <label>Comments</label>
-      <url>https://wordpress.org</url>
+      <url>https://ocn.ne.jp</url>
       <icon>faComments</icon>
     </link>
   </links>
   <activities>
     <activity>
-      <predicate>movedTo</predicate>
-      <place>Bluezoom</place>
-      <predplace>movedTo Bluezoom</predplace>
-      <ts>2019-08-12T22:37:26Z</ts>
+      <predicate>startedAt</predicate>
+      <place>Voomm</place>
+      <predplace>startedAt Voomm</predplace>
+      <ts>2012-07-26T20:29:05Z</ts>
       <source>
         <name>USA Today</name>
-        <ts>2021-04-28T12:13:08Z</ts>
-        <createdBy>Barbee Cearley</createdBy>
-        <approvedBy>Fitzgerald Peart</approvedBy>
-      </source>
-    </activity>
-    <activity>
-      <predicate>transferredTo</predicate>
-      <place>Ailane</place>
-      <predplace>transferredTo Ailane</predplace>
-      <ts>2012-10-11T06:57:55Z</ts>
-      <source>
-        <name>New York Times</name>
-        <ts>2021-02-13T23:37:57Z</ts>
-        <createdBy>Britta Oxbe</createdBy>
-        <approvedBy>Zacharie McAw</approvedBy>
+        <ts>2020-11-12T05:53:50Z</ts>
+        <createdBy>Marice Loughney</createdBy>
+        <approvedBy>Rowan Clarey</approvedBy>
       </source>
     </activity>
     <activity>
       <predicate>startedAt</predicate>
-      <place>Flipstorm</place>
-      <predplace>startedAt Flipstorm</predplace>
-      <ts>2019-12-07T04:10:39Z</ts>
+      <place>Layo</place>
+      <predplace>startedAt Layo</predplace>
+      <ts>2017-05-18T10:39:00Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-11-30T21:30:09Z</ts>
+        <createdBy>Rodney Rising</createdBy>
+        <approvedBy>Izaak Orange</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Photobug</place>
+      <predplace>endedAt Photobug</predplace>
+      <ts>2016-12-31T18:17:29Z</ts>
       <source>
         <name>Chicago Tribune</name>
-        <ts>2020-05-30T20:46:57Z</ts>
-        <createdBy>Myrtia Dignan</createdBy>
-        <approvedBy>Bev Stitle</approvedBy>
+        <ts>2021-02-01T14:18:43Z</ts>
+        <createdBy>Brett Butler-Bowdon</createdBy>
+        <approvedBy>Staci Coniff</approvedBy>
       </source>
     </activity>
     <activity>
-      <predicate>endedAt</predicate>
-      <place>Mynte</place>
-      <predplace>endedAt Mynte</predplace>
-      <ts>2012-07-06T01:42:55Z</ts>
+      <predicate>transferredTo</predicate>
+      <place>Rhyloo</place>
+      <predplace>transferredTo Rhyloo</predplace>
+      <ts>2019-11-27T02:05:31Z</ts>
       <source>
         <name>Los Angeles Times</name>
-        <ts>2021-09-27T22:40:58Z</ts>
-        <createdBy>Florenza Haldene</createdBy>
-        <approvedBy>Hakeem Rodear</approvedBy>
-      </source>
-    </activity>
-    <activity>
-      <predicate>endedAt</predicate>
-      <place>Divavu</place>
-      <predplace>endedAt Divavu</predplace>
-      <ts>2017-04-04T14:26:14Z</ts>
-      <source>
-        <name>Wall Street Journal</name>
-        <ts>2021-10-02T16:37:32Z</ts>
-        <createdBy>Dana Skarin</createdBy>
-        <approvedBy>Sara-ann Brunt</approvedBy>
+        <ts>2021-12-28T01:30:33Z</ts>
+        <createdBy>Alethea Gutherson</createdBy>
+        <approvedBy>Rustin Gherarducci</approvedBy>
       </source>
     </activity>
   </activities>
   <events>
     <event>
       <predicate>visited</predicate>
-      <place>Colombia</place>
-      <predplace>visited Colombia</predplace>
-      <end>2017-09-20T15:40:03Z</end>
-      <start>2016-01-08T17:55:20Z</start>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>visited Swift Inc</predplace>
+      <end>2018-02-14T21:13:25Z</end>
+      <start>2015-08-14T09:39:46Z</start>
     </event>
   </events>
   <actions>
     <action>
-      <url>http://t.co</url>
+      <url>http://jalbum.net</url>
       <icon>faCog</icon>
     </action>
     <action>
-      <url>http://liveinternet.ru</url>
+      <url>https://about.me</url>
       <icon>faCode</icon>
     </action>
     <action>
-      <url>http://slideshare.net</url>
+      <url>http://whitehouse.gov</url>
       <icon>faSync</icon>
     </action>
   </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10066.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10066</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10066.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Giulia</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10066.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Calles</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10066.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10093.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10066.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10023.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10066.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10011.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
 </person>

@@ -6,17 +6,13 @@ const Search = (props) => {
 
     const [query, setQuery] = useState("");
 
-    const handleSearch = () => {
-      if (props.handleSearch) {
-        // do something custom
-      } else {
-        mlContext.getSearch(query);
-      }
+    const handleQuery = () => {
+      mlContext.handleQuery(query);
     }
 
     const handleEnter = (e) => {
         if (e.keyCode === 13) {
-            props.handleSearch(query);
+          mlContext.handleQuery(query);
         }
     };
 
@@ -24,10 +20,16 @@ const Search = (props) => {
         <div>
             <input 
                 value={query} 
+                className="form-control"
+                style={{width: "300px", display: "inline-block"}}
                 onChange={e => setQuery(e.target.value)} 
                 onKeyDown={(e) => handleEnter(e) } 
             />
-            <button onClick={handleSearch}>{props.label || "Search"}</button>
+            <button 
+              onClick={handleQuery} 
+              className="btn btn-primary"
+              style={{top: "-2px", left: "4px", height: "38px", position: "relative"}}
+            >{props.label || "Search"}</button>
         </div>
     )
 }

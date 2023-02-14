@@ -3,267 +3,261 @@
   <personId>10086</personId>
   <nameGroup>
     <givenname>
-      <value>Ema</value>
+      <value>Lexy</value>
     </givenname>
     <surname>
-      <value>Noulton</value>
+      <value>Lewry</value>
     </surname>
     <fullname>
-      <classification>C</classification>
+      <classification>U</classification>
       <restricted>true</restricted>
-      <value>Noulton Ema</value>
-      <source>
-        <name>New York Times</name>
-        <ts>2021-08-31T00:45:53Z</ts>
-      </source>
+      <value>Lexy Lewry </value>
       <source>
         <name>Wall Street Journal</name>
-        <ts>2014-12-20T18:52:59Z</ts>
+        <ts>2020-08-14T02:24:22Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-12-18T11:27:17Z</ts>
       </source>
     </fullname>
   </nameGroup>
   <emails>
     <email>
-      <value>djonke0@slashdot.org</value>
+      <value>malthrope0@state.gov</value>
       <classification>C</classification>
       <restricted>false</restricted>
     </email>
+    <email>
+      <value>dmordanti1@4shared.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
   </emails>
-  <phone>875-527-5866</phone>
+  <phone>281-490-5977</phone>
   <contacts>
     <contact>
       <type>phone</type>
-      <value>984-948-8633</value>
-    </contact>
-    <contact>
-      <type>email</type>
-      <value>wdunstall1@webmd.com</value>
+      <value>970-696-9655</value>
     </contact>
     <contact>
       <type>phone</type>
-      <value>504-212-2219</value>
+      <value>897-387-9300</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>920-537-9094</value>
     </contact>
   </contacts>
   <ssn>
-    <value>247-48-0599</value>
+    <value>160-68-2339</value>
     <classification>(S)</classification>
   </ssn>
   <images>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Diane-Burley-MarkLogic-2015.jpg</url>
-      <source>
-        <name>Washington Post</name>
-        <ts>2018-08-12T15:04:16Z</ts>
-        <uploadedBy>bpayton0</uploadedBy>
-      </source>
-    </image>
-    <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</url>
-      <source>
-        <name>Chicago Tribune</name>
-        <ts>2021-10-27T09:54:43Z</ts>
-        <uploadedBy>efifield0</uploadedBy>
-      </source>
-    </image>
-    <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</url>
+      <url>/images/persons/person-01.jpg</url>
       <source>
         <name>Wall Street Journal</name>
-        <ts>2010-01-13T09:29:26Z</ts>
-        <uploadedBy>kobell0</uploadedBy>
+        <ts>2015-10-18T00:02:12Z</ts>
+        <uploadedBy>fmepsted0</uploadedBy>
       </source>
     </image>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</url>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-03-08T06:58:00Z</ts>
+        <uploadedBy>mdabling0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
       <source>
         <name>Chicago Tribune</name>
-        <ts>2017-03-03T16:55:44Z</ts>
-        <uploadedBy>bsivell0</uploadedBy>
+        <ts>2015-09-22T08:16:35Z</ts>
+        <uploadedBy>sgranham0</uploadedBy>
       </source>
     </image>
   </images>
   <addresses>
     <address>
-      <street>6385 Anderson Terrace</street>
-      <city>Colorado Springs</city>
-      <state>CO</state>
-      <postal>80935</postal>
+      <street>6894 Tennessee Way</street>
+      <city>New Haven</city>
+      <state>CT</state>
+      <postal>06510</postal>
       <country>United States</country>
-      <latitude>38.8247</latitude>
-      <longitude>-104.562</longitude>
+      <latitude>41.3087</latitude>
+      <longitude>-72.9271</longitude>
     </address>
     <address>
-      <street>37 Pearson Court</street>
-      <city>Houston</city>
-      <state>TX</state>
-      <postal>77218</postal>
+      <street>79 Union Road</street>
+      <city>Columbus</city>
+      <state>OH</state>
+      <postal>43210</postal>
       <country>United States</country>
-      <latitude>29.834</latitude>
-      <longitude>-95.4342</longitude>
-    </address>
-    <address>
-      <street>968 Mandrake Place</street>
-      <city>Tampa</city>
-      <state>FL</state>
-      <postal>33633</postal>
-      <country>United States</country>
-      <latitude>27.872</latitude>
-      <longitude>-82.4388</longitude>
+      <latitude>40.0028</latitude>
+      <longitude>-83.0164</longitude>
     </address>
   </addresses>
   <schools>
     <school>
       <country>United States</country>
-      <name>Northeastern Illinois University</name>
-      <city>Pasadena</city>
+      <name>Albany Medical Center</name>
+      <city>Santa Cruz</city>
       <state>CA</state>
-      <postal>91103</postal>
-      <latitude>34.1672881</latitude>
-      <longitude>-118.153228</longitude>
+      <postal>95064</postal>
+      <latitude>36.9923139</latitude>
+      <longitude>-122.0581762</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2014-06-01T21:54:18Z</ts>
+        <ts>2011-12-24T20:31:57Z</ts>
       </source>
       <source>
         <name>New York Times</name>
-        <ts>2014-06-23T22:48:33Z</ts>
+        <ts>2017-02-19T17:13:42Z</ts>
       </source>
     </school>
   </schools>
-  <status>Inactive</status>
+  <status>Active</status>
   <sources>
     <source>
-      <name>Washington Post</name>
-      <ts>2015-12-04T18:07:20Z</ts>
+      <name>Chicago Tribune</name>
+      <ts>2015-06-22T17:15:40Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2011-03-10T17:44:27Z</ts>
     </source>
   </sources>
   <relations>
     <relation>
-      <id>/person/10039.xml</id>
-      <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
-      <fullname>Killelay Selene</fullname>
-      <city>Riverside</city>
-      <state>CA</state>
-    </relation>
-    <relation>
-      <id>/person/10096.xml</id>
-      <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
-      <fullname>Grisard Egan</fullname>
-      <city>Detroit</city>
-      <state>MI</state>
-    </relation>
-    <relation>
-      <id>/person/10089.xml</id>
+      <id>/person/10015.xml</id>
       <predicate>relatedTo</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
-      <fullname>Waywell Kaleb</fullname>
-      <city>Miami</city>
-      <state>FL</state>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Fredric Nesbit </fullname>
+      <city>Birmingham</city>
+      <state>AL</state>
     </relation>
     <relation>
-      <id>/person/10054.xml</id>
+      <id>/person/10074.xml</id>
       <predicate>worksWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
-      <fullname>Evamy Odelia</fullname>
-      <city>Lansing</city>
-      <state>MI</state>
-    </relation>
-    <relation>
-      <id>/person/10023.xml</id>
-      <predicate>worksWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
-      <fullname>Stanfield Philippa</fullname>
-      <city>Madison</city>
-      <state>WI</state>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Abeu Hobden </fullname>
+      <city>Buffalo</city>
+      <state>NY</state>
     </relation>
   </relations>
   <createdOn>
-    <ts>2022-02-03T18:49:37Z</ts>
-    <user>enoulton2d</user>
+    <ts>2022-02-26T06:36:24Z</ts>
+    <user>llewry2d</user>
   </createdOn>
   <lastUpdated>
-    <ts>2022-02-03T00:48:22Z</ts>
-    <user>enoulton2d</user>
+    <ts>2022-02-17T12:56:53Z</ts>
+    <user>llewry2d</user>
   </lastUpdated>
-  <socials/>
-  <memberships>
-    <membership>
-      <list>list3</list>
-      <important>false</important>
-      <ts>2022-02-12</ts>
-    </membership>
-    <membership>
-      <list>list4</list>
-      <important>false</important>
-      <ts>2022-02-21</ts>
-    </membership>
-  </memberships>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>ejerrome0</handle>
+      <address>http://homestead.com/proin/interdum/mauris/non/ligula/pellentesque.html</address>
+    </social>
+  </socials>
+  <memberships/>
   <links>
     <link>
       <label>Quick View</label>
-      <url>https://constantcontact.com</url>
+      <url>https://skype.com</url>
       <icon>faEye</icon>
     </link>
     <link>
       <label>Nomination History</label>
-      <url>https://blog.com</url>
+      <url>https://google.ca</url>
       <icon>faMedal</icon>
     </link>
     <link>
       <label>Comments</label>
-      <url>http://goo.ne.jp</url>
+      <url>https://live.com</url>
       <icon>faComments</icon>
     </link>
   </links>
   <activities>
     <activity>
-      <predicate>endedAt</predicate>
-      <place>Tazz</place>
-      <predplace>endedAt Tazz</predplace>
-      <ts>2015-02-13T19:44:02Z</ts>
+      <predicate>transferredTo</predicate>
+      <place>Lajo</place>
+      <predplace>transferredTo Lajo</predplace>
+      <ts>2019-02-03T15:10:49Z</ts>
       <source>
         <name>USA Today</name>
-        <ts>2021-11-18T13:32:15Z</ts>
-        <createdBy>Kevon Rhubottom</createdBy>
-        <approvedBy>Louisa Henner</approvedBy>
+        <ts>2020-07-29T04:32:30Z</ts>
+        <createdBy>Shay Bondy</createdBy>
+        <approvedBy>Liana Salters</approvedBy>
       </source>
     </activity>
     <activity>
-      <predicate>endedAt</predicate>
-      <place>Meejo</place>
-      <predplace>endedAt Meejo</predplace>
-      <ts>2017-11-08T01:38:53Z</ts>
+      <predicate>movedTo</predicate>
+      <place>Skiptube</place>
+      <predplace>movedTo Skiptube</predplace>
+      <ts>2019-04-15T04:45:19Z</ts>
       <source>
         <name>New York Times</name>
-        <ts>2021-08-16T10:03:29Z</ts>
-        <createdBy>Debor Rochford</createdBy>
-        <approvedBy>Flo Nannoni</approvedBy>
+        <ts>2020-07-12T02:56:40Z</ts>
+        <createdBy>Moe Sprade</createdBy>
+        <approvedBy>Chrissy Scalia</approvedBy>
       </source>
     </activity>
   </activities>
   <events>
     <event>
-      <predicate>servedIn</predicate>
-      <place>Ghana</place>
-      <predplace>servedIn Ghana</predplace>
-      <end>2017-07-17T21:54:40Z</end>
-      <start>2014-10-31T03:17:18Z</start>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2017-11-24T15:55:27Z</end>
+      <start>2014-05-13T01:58:09Z</start>
     </event>
   </events>
   <actions>
     <action>
-      <url>https://xrea.com</url>
+      <url>http://newyorker.com</url>
       <icon>faCog</icon>
     </action>
     <action>
-      <url>http://behance.net</url>
+      <url>http://slate.com</url>
       <icon>faCode</icon>
     </action>
     <action>
-      <url>http://mtv.com</url>
+      <url>http://cam.ac.uk</url>
       <icon>faSync</icon>
     </action>
   </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10086.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10086</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10086.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Lexy</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10086.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Lewry</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10086.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10015.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10086.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10074.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
 </person>

@@ -3,279 +3,366 @@
   <personId>10029</personId>
   <nameGroup>
     <givenname>
-      <value>Gianna</value>
+      <value>Trude</value>
     </givenname>
     <surname>
-      <value>Jozefiak</value>
+      <value>Mityushin</value>
     </surname>
     <fullname>
-      <classification>U</classification>
+      <classification>S</classification>
       <restricted>false</restricted>
-      <value>Jozefiak Gianna</value>
+      <value>Trude Mityushin </value>
       <source>
-        <name>Chicago Tribune</name>
-        <ts>2016-08-27T20:58:01Z</ts>
+        <name>New York Times</name>
+        <ts>2013-11-29T21:05:17Z</ts>
       </source>
       <source>
-        <name>Chicago Tribune</name>
-        <ts>2010-04-06T06:21:10Z</ts>
+        <name>USA Today</name>
+        <ts>2019-01-05T19:01:10Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2020-12-31T21:53:11Z</ts>
       </source>
     </fullname>
   </nameGroup>
   <emails>
     <email>
-      <value>sfranceschielli0@devhub.com</value>
-      <classification>C</classification>
+      <value>swheadon0@home.pl</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>broycraft1@webmd.com</value>
+      <classification>U</classification>
       <restricted>false</restricted>
     </email>
   </emails>
-  <phone>666-272-2977</phone>
+  <phone>684-931-1592</phone>
   <contacts>
     <contact>
-      <type>email</type>
-      <value>omatzkaitis0@mlb.com</value>
+      <type>phone</type>
+      <value>231-782-5684</value>
     </contact>
     <contact>
       <type>phone</type>
-      <value>778-391-9538</value>
+      <value>867-635-4385</value>
     </contact>
     <contact>
-      <type>email</type>
-      <value>kchudleigh2@goo.gl</value>
+      <type>phone</type>
+      <value>433-908-8084</value>
     </contact>
   </contacts>
   <ssn>
-    <value>496-44-2567</value>
+    <value>329-40-6074</value>
     <classification>(S)</classification>
   </ssn>
   <images>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</url>
+      <url>/images/persons/person-09.jpg</url>
       <source>
-        <name>Wall Street Journal</name>
-        <ts>2011-06-13T17:03:02Z</ts>
-        <uploadedBy>adigiacomo0</uploadedBy>
+        <name>Chicago Tribune</name>
+        <ts>2017-03-01T02:08:24Z</ts>
+        <uploadedBy>krait0</uploadedBy>
       </source>
     </image>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</url>
+      <url>/images/persons/person-06.jpg</url>
       <source>
-        <name>New York Times</name>
-        <ts>2016-03-31T15:43:10Z</ts>
-        <uploadedBy>aletrange0</uploadedBy>
+        <name>USA Today</name>
+        <ts>2010-10-11T19:43:24Z</ts>
+        <uploadedBy>dlaurencot0</uploadedBy>
       </source>
     </image>
   </images>
   <addresses>
     <address>
-      <street>6255 Crownhardt Avenue</street>
-      <city>Houston</city>
-      <state>TX</state>
-      <postal>77223</postal>
+      <street>88 Spenser Lane</street>
+      <city>Bronx</city>
+      <state>NY</state>
+      <postal>10454</postal>
       <country>United States</country>
-      <latitude>29.834</latitude>
-      <longitude>-95.4342</longitude>
+      <latitude>40.8085</latitude>
+      <longitude>-73.9198</longitude>
+    </address>
+    <address>
+      <street>5 Lake View Road</street>
+      <city>Springfield</city>
+      <state>IL</state>
+      <postal>62705</postal>
+      <country>United States</country>
+      <latitude>39.7495</latitude>
+      <longitude>-89.606</longitude>
+    </address>
+    <address>
+      <street>7848 Arkansas Way</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <postal>46216</postal>
+      <country>United States</country>
+      <latitude>39.8647</latitude>
+      <longitude>-86.0136</longitude>
     </address>
   </addresses>
   <schools>
     <school>
-      <country>Canada</country>
-      <name>University of New Brunswick</name>
-      <city>Two Hills</city>
-      <state>AB</state>
-      <postal>J9H</postal>
-      <latitude>53.7131425</latitude>
-      <longitude>-111.743338</longitude>
+      <country>Mexico</country>
+      <name>Universidad Autónoma Metropolitana - Xochimilco</name>
+      <city>Isidro Fabela</city>
+      <state>MEX</state>
+      <postal>54932</postal>
+      <latitude>19.6612408</latitude>
+      <longitude>-99.0795719</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2018-12-02T03:48:44Z</ts>
+        <ts>2021-07-04T22:00:24Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-06-15T20:56:42Z</ts>
       </source>
     </school>
     <school>
       <country>United States</country>
-      <name>Northwood University, Florida Campus</name>
-      <city>Springfield</city>
-      <state>IL</state>
-      <postal>62764</postal>
-      <latitude>39.7761758</latitude>
-      <longitude>-89.6051502</longitude>
+      <name>City University of New York, John Jay College of Criminal Justice</name>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20210</postal>
+      <latitude>38.8920292</latitude>
+      <longitude>-77.0136483</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2021-03-15T14:41:28Z</ts>
+        <ts>2018-06-03T17:25:31Z</ts>
       </source>
       <source>
         <name>New York Times</name>
-        <ts>2011-06-18T06:22:44Z</ts>
+        <ts>2013-06-24T04:32:44Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-05-04T22:49:16Z</ts>
       </source>
     </school>
   </schools>
   <status>Inactive</status>
   <sources>
     <source>
-      <name>Washington Post</name>
-      <ts>2010-06-06T16:30:22Z</ts>
-    </source>
-  </sources>
-  <sources>
-    <source>
-      <name>Chicago Tribune</name>
-      <ts>2014-12-07T23:24:17Z</ts>
-    </source>
-  </sources>
-  <sources>
-    <source>
       <name>Wall Street Journal</name>
-      <ts>2010-03-20T06:13:04Z</ts>
+      <ts>2010-11-26T14:56:20Z</ts>
     </source>
   </sources>
   <relations>
     <relation>
-      <id>/person/10027.xml</id>
+      <id>/person/10067.xml</id>
       <predicate>worksWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
-      <fullname>Scalia Charyl</fullname>
-      <city>Marietta</city>
-      <state>GA</state>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Tommy Deek </fullname>
+      <city>Kansas City</city>
+      <state>MO</state>
     </relation>
     <relation>
-      <id>/person/10093.xml</id>
-      <predicate>worksWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Alicia-Saia-MarkLogic1.jpg</imageSrc>
-      <fullname>Melarkey Marita</fullname>
-      <city>Warren</city>
-      <state>MI</state>
-    </relation>
-    <relation>
-      <id>/person/10042.xml</id>
-      <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/11/george-bloom-headshot-300x300-1.jpg</imageSrc>
-      <fullname>Crinkley Guillemette</fullname>
-      <city>New Orleans</city>
-      <state>LA</state>
+      <id>/person/10049.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Maryjo Flooks </fullname>
+      <city>Saint Cloud</city>
+      <state>MN</state>
     </relation>
     <relation>
       <id>/person/10038.xml</id>
-      <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/07/chuck-hollis.jpeg</imageSrc>
-      <fullname>Pippin Shelby</fullname>
-      <city>New Orleans</city>
-      <state>LA</state>
-    </relation>
-    <relation>
-      <id>/person/10059.xml</id>
-      <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/headshot_square_286x286.jpg</imageSrc>
-      <fullname>Minshull Gauthier</fullname>
-      <city>Hartford</city>
-      <state>CT</state>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Vilhelmina Napthine </fullname>
+      <city>Austin</city>
+      <state>TX</state>
     </relation>
   </relations>
   <createdOn>
-    <ts>2022-01-29T08:21:49Z</ts>
-    <user>gjozefiaks</user>
+    <ts>2022-02-11T10:39:12Z</ts>
+    <user>tmityushins</user>
   </createdOn>
   <lastUpdated>
-    <ts>2022-01-30T18:44:52Z</ts>
-    <user>gjozefiaks</user>
+    <ts>2022-01-14T03:15:37Z</ts>
+    <user>tmityushins</user>
   </lastUpdated>
   <socials>
     <social>
+      <site>linkedin</site>
+      <handle>acullimore0</handle>
+      <address>https://vkontakte.ru/justo/etiam/pretium.aspx</address>
+    </social>
+    <social>
       <site>facebook</site>
-      <handle>eviccary0</handle>
-      <address>http://mit.edu/metus.aspx</address>
-    </social>
-    <social>
-      <site>linkedin</site>
-      <handle>jpoznan1</handle>
-      <address>https://imageshack.us/morbi/ut.xml</address>
-    </social>
-    <social>
-      <site>linkedin</site>
-      <handle>gbeament2</handle>
-      <address>https://skype.com/ac/lobortis/vel/dapibus/at/diam/nam.js</address>
+      <handle>tdovington1</handle>
+      <address>https://youku.com/vestibulum.png</address>
     </social>
   </socials>
   <memberships>
     <membership>
-      <list>list8</list>
-      <important>true</important>
+      <list>list5</list>
+      <important>false</important>
       <ts>2022-02-22</ts>
     </membership>
     <membership>
-      <list>list9</list>
-      <important>false</important>
-      <ts>2022-01-09</ts>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-12</ts>
     </membership>
     <membership>
-      <list>list11</list>
+      <list>list4</list>
       <important>false</important>
-      <ts>2022-02-02</ts>
+      <ts>2022-01-08</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-04</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-02-21</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>false</important>
+      <ts>2022-01-26</ts>
     </membership>
   </memberships>
   <links>
     <link>
       <label>Quick View</label>
-      <url>http://slashdot.org</url>
+      <url>https://woothemes.com</url>
       <icon>faEye</icon>
     </link>
     <link>
       <label>Nomination History</label>
-      <url>https://etsy.com</url>
+      <url>https://patch.com</url>
       <icon>faMedal</icon>
     </link>
     <link>
       <label>Comments</label>
-      <url>https://webs.com</url>
+      <url>https://infoseek.co.jp</url>
       <icon>faComments</icon>
     </link>
   </links>
   <activities>
     <activity>
-      <predicate>movedTo</predicate>
+      <predicate>transferredTo</predicate>
       <place>Skinte</place>
-      <predplace>movedTo Skinte</predplace>
-      <ts>2019-06-05T20:35:40Z</ts>
+      <predplace>transferredTo Skinte</predplace>
+      <ts>2012-06-18T09:10:41Z</ts>
       <source>
         <name>USA Today</name>
-        <ts>2021-08-17T01:24:36Z</ts>
-        <createdBy>Pierson Dyers</createdBy>
-        <approvedBy>Roxana Fairy</approvedBy>
+        <ts>2021-12-30T08:34:55Z</ts>
+        <createdBy>Sissie Flaubert</createdBy>
+        <approvedBy>Vasili Barmby</approvedBy>
       </source>
     </activity>
     <activity>
       <predicate>transferredTo</predicate>
-      <place>Fivebridge</place>
-      <predplace>transferredTo Fivebridge</predplace>
-      <ts>2018-07-13T21:59:12Z</ts>
+      <place>Wordpedia</place>
+      <predplace>transferredTo Wordpedia</predplace>
+      <ts>2018-12-13T05:22:32Z</ts>
       <source>
         <name>New York Times</name>
-        <ts>2021-02-06T07:58:47Z</ts>
-        <createdBy>Thornton Sarjent</createdBy>
-        <approvedBy>Osbourn Mullen</approvedBy>
+        <ts>2021-05-11T07:12:12Z</ts>
+        <createdBy>Minne Gleadle</createdBy>
+        <approvedBy>Reuben Durbann</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Youbridge</place>
+      <predplace>endedAt Youbridge</predplace>
+      <ts>2014-02-12T22:12:20Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-07-02T12:55:05Z</ts>
+        <createdBy>Kristos Mehew</createdBy>
+        <approvedBy>Glenna Lydiard</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Plambee</place>
+      <predplace>endedAt Plambee</predplace>
+      <ts>2013-02-21T23:35:31Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-03-04T21:57:18Z</ts>
+        <createdBy>Esma Marie</createdBy>
+        <approvedBy>Alvinia Blance</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Topiczoom</place>
+      <predplace>endedAt Topiczoom</predplace>
+      <ts>2015-03-22T01:43:43Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-09-17T00:34:48Z</ts>
+        <createdBy>Emelyne Muttitt</createdBy>
+        <approvedBy>Alane Mardling</approvedBy>
       </source>
     </activity>
   </activities>
   <events>
     <event>
-      <predicate>livedIn</predicate>
-      <place>Malaysia</place>
-      <predplace>livedIn Malaysia</predplace>
-      <end>2018-02-20T11:37:02Z</end>
-      <start>2014-10-04T10:50:33Z</start>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-01-27T05:42:08Z</end>
+      <start>2015-04-23T05:01:26Z</start>
     </event>
   </events>
   <actions>
     <action>
-      <url>https://odnoklassniki.ru</url>
+      <url>http://shinystat.com</url>
       <icon>faCog</icon>
     </action>
     <action>
-      <url>https://wikispaces.com</url>
+      <url>http://narod.ru</url>
       <icon>faCode</icon>
     </action>
     <action>
-      <url>https://alibaba.com</url>
+      <url>https://dailymail.co.uk</url>
       <icon>faSync</icon>
     </action>
   </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10029</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Trude</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Mityushin</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10067.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10049.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10029.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10038.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
 </person>

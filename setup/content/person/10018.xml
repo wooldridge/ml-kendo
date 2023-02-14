@@ -3,287 +3,351 @@
   <personId>10018</personId>
   <nameGroup>
     <givenname>
-      <value>Evangelia</value>
+      <value>Lesley</value>
     </givenname>
     <surname>
-      <value>O'Leahy</value>
+      <value>Spalton</value>
     </surname>
     <fullname>
-      <classification>C</classification>
+      <classification>U</classification>
       <restricted>true</restricted>
-      <value>O'Leahy Evangelia</value>
+      <value>Lesley Spalton </value>
       <source>
-        <name>Washington Post</name>
-        <ts>2011-04-16T05:29:12Z</ts>
+        <name>New York Times</name>
+        <ts>2014-01-18T03:09:15Z</ts>
       </source>
       <source>
-        <name>Washington Post</name>
-        <ts>2015-07-08T00:18:48Z</ts>
+        <name>New York Times</name>
+        <ts>2016-07-03T15:38:46Z</ts>
       </source>
       <source>
-        <name>Wall Street Journal</name>
-        <ts>2019-10-12T18:12:30Z</ts>
+        <name>New York Times</name>
+        <ts>2010-06-21T01:14:47Z</ts>
       </source>
     </fullname>
   </nameGroup>
   <emails>
     <email>
-      <value>pmacchaell0@dailymotion.com</value>
-      <classification>S</classification>
-      <restricted>false</restricted>
-    </email>
-    <email>
-      <value>sambridge1@wp.com</value>
+      <value>sseargeant0@uiuc.edu</value>
       <classification>U</classification>
       <restricted>false</restricted>
     </email>
+    <email>
+      <value>jcolnett1@ebay.co.uk</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
   </emails>
-  <phone>965-553-8165</phone>
+  <phone>707-272-3686</phone>
   <contacts>
     <contact>
-      <type>phone</type>
-      <value>982-863-3810</value>
-    </contact>
-    <contact>
       <type>email</type>
-      <value>jkleisel1@wordpress.com</value>
+      <value>cbavister0@fotki.com</value>
     </contact>
     <contact>
       <type>phone</type>
-      <value>345-579-7451</value>
+      <value>691-877-3832</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>427-836-8263</value>
     </contact>
   </contacts>
   <ssn>
-    <value>241-91-7487</value>
+    <value>430-96-1661</value>
     <classification>(S)</classification>
   </ssn>
   <images>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <url>/images/persons/person-02.jpg</url>
       <source>
-        <name>New York Times</name>
-        <ts>2017-03-28T02:23:55Z</ts>
-        <uploadedBy>hfollos0</uploadedBy>
+        <name>Chicago Tribune</name>
+        <ts>2018-05-23T19:16:10Z</ts>
+        <uploadedBy>mmonan0</uploadedBy>
       </source>
     </image>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/05/IS-headshot.jpeg</url>
+      <url>/images/persons/person-02.jpg</url>
       <source>
         <name>Chicago Tribune</name>
-        <ts>2012-08-25T06:21:31Z</ts>
-        <uploadedBy>ebewlie0</uploadedBy>
+        <ts>2019-12-14T09:22:35Z</ts>
+        <uploadedBy>ehaill0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-02-23T22:18:45Z</ts>
+        <uploadedBy>cchifney0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-12-25T10:00:53Z</ts>
+        <uploadedBy>gandrew0</uploadedBy>
       </source>
     </image>
   </images>
   <addresses>
     <address>
-      <street>3913 Lukken Hill</street>
-      <city>Washington</city>
-      <state>DC</state>
-      <postal>20310</postal>
+      <street>98570 Moose Trail</street>
+      <city>South Lake Tahoe</city>
+      <state>CA</state>
+      <postal>96154</postal>
       <country>United States</country>
-      <latitude>38.8933</latitude>
-      <longitude>-77.0146</longitude>
+      <latitude>38.8753</latitude>
+      <longitude>-120.0188</longitude>
     </address>
     <address>
-      <street>4986 Springview Terrace</street>
-      <city>Atlanta</city>
-      <state>GA</state>
-      <postal>30351</postal>
+      <street>16 Melby Park</street>
+      <city>Winter Haven</city>
+      <state>FL</state>
+      <postal>33884</postal>
       <country>United States</country>
-      <latitude>33.8444</latitude>
-      <longitude>-84.474</longitude>
+      <latitude>27.981</latitude>
+      <longitude>-81.6736</longitude>
     </address>
     <address>
-      <street>25393 Hayes Center</street>
-      <city>Des Moines</city>
-      <state>IA</state>
-      <postal>50393</postal>
+      <street>2 Delaware Drive</street>
+      <city>Charleston</city>
+      <state>WV</state>
+      <postal>25356</postal>
       <country>United States</country>
-      <latitude>41.6727</latitude>
-      <longitude>-93.5722</longitude>
+      <latitude>38.2968</latitude>
+      <longitude>-81.5547</longitude>
     </address>
   </addresses>
   <schools>
     <school>
-      <country>United States</country>
-      <name>Mount Holyoke College</name>
-      <city>San Diego</city>
-      <state>CA</state>
-      <postal>92127</postal>
-      <latitude>33.0227476</latitude>
-      <longitude>-117.1382404</longitude>
+      <country>United Kingdom</country>
+      <name>University of Strathclyde</name>
+      <city>Norton</city>
+      <state>ENG</state>
+      <postal>NN11</postal>
+      <latitude>52.2679288</latitude>
+      <longitude>-1.1202549</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2020-04-02T03:41:49Z</ts>
-      </source>
-    </school>
-    <school>
-      <country>Mexico</country>
-      <name>Universidad Autónoma de Campeche</name>
-      <city>La Loma</city>
-      <state>VER</state>
-      <postal>92148</postal>
-      <latitude>19.3608203</latitude>
-      <longitude>-99.2577715</longitude>
-      <source>
-        <name>USA Today</name>
-        <ts>2020-03-05T19:58:31Z</ts>
+        <ts>2017-07-19T14:31:38Z</ts>
       </source>
       <source>
         <name>New York Times</name>
-        <ts>2010-05-12T08:08:13Z</ts>
+        <ts>2012-01-15T12:32:01Z</ts>
       </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>University of North Texas Health Science Center at Fort Worth</name>
+      <city>Shawnee Mission</city>
+      <state>KS</state>
+      <postal>66276</postal>
+      <latitude>39.0269443</latitude>
+      <longitude>-94.6673484</longitude>
       <source>
-        <name>Chicago Tribune</name>
-        <ts>2018-02-15T08:01:09Z</ts>
+        <name>USA Today</name>
+        <ts>2012-06-23T08:23:27Z</ts>
       </source>
     </school>
   </schools>
-  <status>Inactive</status>
+  <status>Active</status>
   <sources>
     <source>
-      <name>Chicago Tribune</name>
-      <ts>2015-08-13T19:27:40Z</ts>
+      <name>USA Today</name>
+      <ts>2016-08-24T04:25:33Z</ts>
     </source>
   </sources>
   <relations>
     <relation>
-      <id>/person/10081.xml</id>
-      <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/02/trinh-lieu-profile.jpg</imageSrc>
-      <fullname>Stones Casar</fullname>
-      <city>Amarillo</city>
-      <state>TX</state>
-    </relation>
-    <relation>
-      <id>/person/10031.xml</id>
-      <predicate>worksWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
-      <fullname>Abbey Issi</fullname>
-      <city>Rochester</city>
-      <state>NY</state>
-    </relation>
-    <relation>
-      <id>/person/10029.xml</id>
+      <id>/person/10044.xml</id>
       <predicate>relatedTo</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
-      <fullname>Jozefiak Gianna</fullname>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Lannie Reyes </fullname>
+      <city>Richmond</city>
+      <state>VA</state>
+    </relation>
+    <relation>
+      <id>/person/10027.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Calypso Hasselby </fullname>
       <city>Houston</city>
       <state>TX</state>
     </relation>
     <relation>
-      <id>/person/10032.xml</id>
+      <id>/person/10070.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Drusie Markie </fullname>
+      <city>Wichita Falls</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10050.xml</id>
       <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</imageSrc>
-      <fullname>Pantone Jedidiah</fullname>
-      <city>Brooklyn</city>
-      <state>NY</state>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Jarred Bottby </fullname>
+      <city>Saint Cloud</city>
+      <state>MN</state>
     </relation>
   </relations>
   <createdOn>
-    <ts>2022-02-21T16:59:49Z</ts>
-    <user>eoleahyh</user>
+    <ts>2022-01-22T05:04:46Z</ts>
+    <user>lspaltonh</user>
   </createdOn>
   <lastUpdated>
-    <ts>2022-02-07T15:11:03Z</ts>
-    <user>eoleahyh</user>
+    <ts>2022-01-26T14:44:34Z</ts>
+    <user>lspaltonh</user>
   </lastUpdated>
   <socials>
     <social>
-      <site>linkedin</site>
-      <handle>twoolmore0</handle>
-      <address>http://mayoclinic.com/tortor/id.png</address>
-    </social>
-    <social>
-      <site>twitter</site>
-      <handle>jmcellen1</handle>
-      <address>https://woothemes.com/rhoncus/aliquam.json</address>
+      <site>facebook</site>
+      <handle>wchell0</handle>
+      <address>https://yellowpages.com/suspendisse/ornare/consequat.jpg</address>
     </social>
   </socials>
-  <memberships>
-    <membership>
-      <list>list3</list>
-      <important>false</important>
-      <ts>2022-02-06</ts>
-    </membership>
-  </memberships>
+  <memberships/>
   <links>
     <link>
       <label>Quick View</label>
-      <url>http://illinois.edu</url>
+      <url>http://tiny.cc</url>
       <icon>faEye</icon>
     </link>
     <link>
       <label>Nomination History</label>
-      <url>https://intel.com</url>
+      <url>https://seattletimes.com</url>
       <icon>faMedal</icon>
     </link>
     <link>
       <label>Comments</label>
-      <url>http://ox.ac.uk</url>
+      <url>http://jigsy.com</url>
       <icon>faComments</icon>
     </link>
   </links>
   <activities>
     <activity>
       <predicate>transferredTo</predicate>
-      <place>Vinder</place>
-      <predplace>transferredTo Vinder</predplace>
-      <ts>2019-12-19T04:11:37Z</ts>
+      <place>Skiptube</place>
+      <predplace>transferredTo Skiptube</predplace>
+      <ts>2015-11-10T22:37:16Z</ts>
       <source>
         <name>USA Today</name>
-        <ts>2021-06-25T05:52:11Z</ts>
-        <createdBy>Cleopatra Eskriett</createdBy>
-        <approvedBy>Rozanna O'Shiel</approvedBy>
+        <ts>2020-04-08T14:51:36Z</ts>
+        <createdBy>Peirce Holstein</createdBy>
+        <approvedBy>Marion Bedells</approvedBy>
       </source>
     </activity>
     <activity>
-      <predicate>startedAt</predicate>
-      <place>Roombo</place>
-      <predplace>startedAt Roombo</predplace>
-      <ts>2016-09-07T11:51:50Z</ts>
+      <predicate>transferredTo</predicate>
+      <place>Avaveo</place>
+      <predplace>transferredTo Avaveo</predplace>
+      <ts>2013-08-25T17:56:05Z</ts>
       <source>
         <name>New York Times</name>
-        <ts>2022-02-13T03:56:19Z</ts>
-        <createdBy>Meridel Thirkettle</createdBy>
-        <approvedBy>Emmaline Duer</approvedBy>
+        <ts>2022-02-14T22:29:18Z</ts>
+        <createdBy>Grenville Reuss</createdBy>
+        <approvedBy>Aleta Iorizzo</approvedBy>
       </source>
     </activity>
     <activity>
       <predicate>startedAt</predicate>
-      <place>Feedfire</place>
-      <predplace>startedAt Feedfire</predplace>
-      <ts>2012-08-01T14:25:39Z</ts>
+      <place>Topdrive</place>
+      <predplace>startedAt Topdrive</predplace>
+      <ts>2020-02-18T02:52:58Z</ts>
       <source>
         <name>Chicago Tribune</name>
-        <ts>2020-01-07T21:54:43Z</ts>
-        <createdBy>Elfrida Walewicz</createdBy>
-        <approvedBy>Jareb Buche</approvedBy>
+        <ts>2021-08-14T07:36:57Z</ts>
+        <createdBy>Melodee Ahern</createdBy>
+        <approvedBy>Dominic Peabody</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Mycat</place>
+      <predplace>endedAt Mycat</predplace>
+      <ts>2017-11-13T10:19:52Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-05-26T08:26:48Z</ts>
+        <createdBy>Rea Newling</createdBy>
+        <approvedBy>Homer Self</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Babbleset</place>
+      <predplace>startedAt Babbleset</predplace>
+      <ts>2019-03-28T18:02:18Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-01-14T06:24:13Z</ts>
+        <createdBy>Vicki Hassent</createdBy>
+        <approvedBy>Doroteya Burnard</approvedBy>
       </source>
     </activity>
   </activities>
   <events>
     <event>
-      <predicate>visited</predicate>
-      <place>Russia</place>
-      <predplace>visited Russia</predplace>
-      <end>2017-10-28T06:42:37Z</end>
-      <start>2016-06-01T02:40:47Z</start>
+      <predicate>contractedWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>contractedWith Swift Inc</predplace>
+      <end>2018-04-16T11:55:10Z</end>
+      <start>2016-02-08T11:39:52Z</start>
     </event>
   </events>
   <actions>
     <action>
-      <url>https://google.co.uk</url>
+      <url>https://addthis.com</url>
       <icon>faCog</icon>
     </action>
     <action>
-      <url>https://squarespace.com</url>
+      <url>http://yahoo.co.jp</url>
       <icon>faCode</icon>
     </action>
     <action>
-      <url>https://toplist.cz</url>
+      <url>https://nationalgeographic.com</url>
       <icon>faSync</icon>
     </action>
   </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10018</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Lesley</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Spalton</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10044.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10027.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10070.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10018.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10050.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
 </person>

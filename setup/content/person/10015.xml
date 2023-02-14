@@ -3,304 +3,291 @@
   <personId>10015</personId>
   <nameGroup>
     <givenname>
-      <value>Missie</value>
+      <value>Fredric</value>
     </givenname>
     <surname>
-      <value>Worshall</value>
+      <value>Nesbit</value>
     </surname>
     <fullname>
       <classification>C</classification>
-      <restricted>false</restricted>
-      <value>Worshall Missie</value>
+      <restricted>true</restricted>
+      <value>Fredric Nesbit </value>
       <source>
-        <name>Washington Post</name>
-        <ts>2020-10-20T07:51:58Z</ts>
+        <name>Wall Street Journal</name>
+        <ts>2014-04-03T10:31:53Z</ts>
       </source>
       <source>
-        <name>New York Times</name>
-        <ts>2018-01-15T02:38:08Z</ts>
+        <name>Chicago Tribune</name>
+        <ts>2020-09-19T21:17:48Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-05-15T02:05:04Z</ts>
       </source>
     </fullname>
   </nameGroup>
   <emails>
     <email>
-      <value>scorington0@hugedomains.com</value>
-      <classification>S</classification>
+      <value>mdrance0@scientificamerican.com</value>
+      <classification>C</classification>
       <restricted>false</restricted>
     </email>
     <email>
-      <value>tarmit1@mtv.com</value>
-      <classification>U</classification>
+      <value>jchitty1@twitter.com</value>
+      <classification>C</classification>
       <restricted>false</restricted>
     </email>
   </emails>
-  <phone>333-690-1406</phone>
+  <phone>537-716-4377</phone>
   <contacts>
     <contact>
       <type>email</type>
-      <value>hbeecham0@ucoz.ru</value>
+      <value>rcolston0@lulu.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>etours1@yolasite.com</value>
     </contact>
     <contact>
       <type>phone</type>
-      <value>717-747-5108</value>
-    </contact>
-    <contact>
-      <type>phone</type>
-      <value>772-360-5633</value>
+      <value>915-106-4758</value>
     </contact>
   </contacts>
   <ssn>
-    <value>739-42-5427</value>
+    <value>388-71-2109</value>
     <classification>(S)</classification>
   </ssn>
   <images>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</url>
+      <url>/images/persons/person-02.jpg</url>
       <source>
-        <name>New York Times</name>
-        <ts>2014-09-04T14:38:48Z</ts>
-        <uploadedBy>amorriarty0</uploadedBy>
+        <name>Washington Post</name>
+        <ts>2017-07-28T07:37:32Z</ts>
+        <uploadedBy>pivey0</uploadedBy>
       </source>
     </image>
     <image>
-      <url>https://cdn1.marklogic.com/wp-content/uploads/2021/02/1612313387205.jpeg</url>
+      <url>/images/persons/person-09.jpg</url>
       <source>
         <name>New York Times</name>
-        <ts>2014-09-02T23:30:20Z</ts>
-        <uploadedBy>cbailes0</uploadedBy>
+        <ts>2012-08-24T13:49:12Z</ts>
+        <uploadedBy>ttruscott0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-02-25T02:57:24Z</ts>
+        <uploadedBy>agwinn0</uploadedBy>
       </source>
     </image>
   </images>
   <addresses>
     <address>
-      <street>289 Spenser Center</street>
-      <city>London</city>
-      <state>KY</state>
-      <postal>40745</postal>
+      <street>0709 Hintze Trail</street>
+      <city>Birmingham</city>
+      <state>AL</state>
+      <postal>35285</postal>
       <country>United States</country>
-      <latitude>37.1376</latitude>
-      <longitude>-84.1156</longitude>
-    </address>
-    <address>
-      <street>64734 Lake View Drive</street>
-      <city>Philadelphia</city>
-      <state>PA</state>
-      <postal>19151</postal>
-      <country>United States</country>
-      <latitude>39.9772</latitude>
-      <longitude>-75.2545</longitude>
-    </address>
-    <address>
-      <street>383 Trailsway Lane</street>
-      <city>Las Vegas</city>
-      <state>NV</state>
-      <postal>89110</postal>
-      <country>United States</country>
-      <latitude>36.173</latitude>
-      <longitude>-115.0669</longitude>
+      <latitude>33.5446</latitude>
+      <longitude>-86.9292</longitude>
     </address>
   </addresses>
   <schools>
     <school>
       <country>United States</country>
-      <name>Baker College of Flint</name>
-      <city>Asheville</city>
-      <state>NC</state>
-      <postal>28805</postal>
-      <latitude>35.6046911</latitude>
-      <longitude>-82.4861053</longitude>
+      <name>New York Academy of Art, Graduate School of Figurative Art</name>
+      <city>Clearwater</city>
+      <state>FL</state>
+      <postal>34615</postal>
+      <latitude>41.7396715</latitude>
+      <longitude>-85.9262162</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2017-10-01T20:32:44Z</ts>
-      </source>
-      <source>
-        <name>New York Times</name>
-        <ts>2010-03-27T01:49:47Z</ts>
+        <ts>2014-09-01T10:48:54Z</ts>
       </source>
     </school>
     <school>
       <country>United States</country>
-      <name>St. Joseph College</name>
-      <city>Evansville</city>
-      <state>IN</state>
-      <postal>47725</postal>
-      <latitude>37.9715592</latitude>
-      <longitude>-87.5710898</longitude>
+      <name>University of Southern Mississippi</name>
+      <city>Charlotte</city>
+      <state>NC</state>
+      <postal>28263</postal>
+      <latitude>35.21</latitude>
+      <longitude>-80.69</longitude>
       <source>
         <name>USA Today</name>
-        <ts>2016-08-18T09:20:58Z</ts>
-      </source>
-      <source>
-        <name>New York Times</name>
-        <ts>2016-11-07T23:38:29Z</ts>
+        <ts>2015-07-18T15:06:55Z</ts>
       </source>
     </school>
   </schools>
   <status>Inactive</status>
   <sources>
     <source>
-      <name>New York Times</name>
-      <ts>2020-12-02T21:28:24Z</ts>
-    </source>
-  </sources>
-  <sources>
-    <source>
       <name>USA Today</name>
-      <ts>2018-03-21T18:02:37Z</ts>
+      <ts>2014-01-14T08:15:02Z</ts>
     </source>
   </sources>
   <sources>
     <source>
       <name>Washington Post</name>
-      <ts>2013-09-05T11:45:35Z</ts>
+      <ts>2015-03-20T12:02:46Z</ts>
     </source>
   </sources>
   <relations>
     <relation>
-      <id>/person/10061.xml</id>
-      <predicate>livesWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2018/01/Michael-Malgeri-MarkLogic.jpg</imageSrc>
-      <fullname>Yves Josepha</fullname>
-      <city>Minneapolis</city>
-      <state>MN</state>
+      <id>/person/10069.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Malinde Guess </fullname>
+      <city>South Lake Tahoe</city>
+      <state>CA</state>
     </relation>
     <relation>
-      <id>/person/10065.xml</id>
-      <predicate>worksWith</predicate>
-      <imageSrc>https://cdn1.marklogic.com/wp-content/uploads/2020/04/JamesKenwood-headshot-600x600-1.jpg</imageSrc>
-      <fullname>Tembridge Brock</fullname>
-      <city>San Jose</city>
-      <state>CA</state>
+      <id>/person/10060.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Sabrina Waberer </fullname>
+      <city>Corpus Christi</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10014.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Ivor Innman </fullname>
+      <city>Amarillo</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10016.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Sal Blue </fullname>
+      <city>Little Rock</city>
+      <state>AR</state>
     </relation>
   </relations>
   <createdOn>
-    <ts>2022-02-06T17:48:01Z</ts>
-    <user>mworshalle</user>
+    <ts>2022-01-09T01:20:51Z</ts>
+    <user>fnesbite</user>
   </createdOn>
   <lastUpdated>
-    <ts>2022-01-11T21:25:23Z</ts>
-    <user>mworshalle</user>
+    <ts>2022-01-20T23:55:34Z</ts>
+    <user>fnesbite</user>
   </lastUpdated>
   <socials>
     <social>
-      <site>linkedin</site>
-      <handle/>
-      <address>https://exblog.jp/felis/donec.js</address>
-    </social>
-    <social>
       <site>facebook</site>
-      <handle>fheaslip1</handle>
-      <address>http://hugedomains.com/mus/vivamus/vestibulum/sagittis/sapien/cum/sociis.jsp</address>
+      <handle>smarquess0</handle>
+      <address>http://wunderground.com/orci.png</address>
     </social>
   </socials>
-  <memberships>
-    <membership>
-      <list>list3</list>
-      <important>false</important>
-      <ts>2022-02-15</ts>
-    </membership>
-    <membership>
-      <list>list2</list>
-      <important>false</important>
-      <ts>2022-01-12</ts>
-    </membership>
-    <membership>
-      <list>list4</list>
-      <important>true</important>
-      <ts>2022-01-18</ts>
-    </membership>
-    <membership>
-      <list>list5</list>
-      <important>true</important>
-      <ts>2022-01-25</ts>
-    </membership>
-    <membership>
-      <list>list8</list>
-      <important>true</important>
-      <ts>2022-02-25</ts>
-    </membership>
-    <membership>
-      <list>list2</list>
-      <important>false</important>
-      <ts>2022-01-01</ts>
-    </membership>
-  </memberships>
+  <memberships/>
   <links>
     <link>
       <label>Quick View</label>
-      <url>http://naver.com</url>
+      <url>https://washington.edu</url>
       <icon>faEye</icon>
     </link>
     <link>
       <label>Nomination History</label>
-      <url>http://tripod.com</url>
+      <url>http://cdc.gov</url>
       <icon>faMedal</icon>
     </link>
     <link>
       <label>Comments</label>
-      <url>http://drupal.org</url>
+      <url>https://symantec.com</url>
       <icon>faComments</icon>
     </link>
   </links>
   <activities>
     <activity>
-      <predicate>startedAt</predicate>
-      <place>Roomm</place>
-      <predplace>startedAt Roomm</predplace>
-      <ts>2016-10-28T23:42:10Z</ts>
+      <predicate>movedTo</predicate>
+      <place>Quimm</place>
+      <predplace>movedTo Quimm</predplace>
+      <ts>2019-08-21T12:26:21Z</ts>
       <source>
         <name>USA Today</name>
-        <ts>2020-10-15T09:32:07Z</ts>
-        <createdBy>Tiphany George</createdBy>
-        <approvedBy>Verna Dehn</approvedBy>
+        <ts>2021-06-12T10:35:30Z</ts>
+        <createdBy>Arluene Abrey</createdBy>
+        <approvedBy>Webb Marchbank</approvedBy>
       </source>
     </activity>
     <activity>
       <predicate>endedAt</predicate>
-      <place>Oloo</place>
-      <predplace>endedAt Oloo</predplace>
-      <ts>2016-01-17T18:12:08Z</ts>
+      <place>Linktype</place>
+      <predplace>endedAt Linktype</predplace>
+      <ts>2015-02-01T19:12:49Z</ts>
       <source>
         <name>New York Times</name>
-        <ts>2020-03-24T18:19:50Z</ts>
-        <createdBy>Carolin Danford</createdBy>
-        <approvedBy>Den Brabbs</approvedBy>
-      </source>
-    </activity>
-    <activity>
-      <predicate>endedAt</predicate>
-      <place>Dynazzy</place>
-      <predplace>endedAt Dynazzy</predplace>
-      <ts>2014-12-10T22:55:00Z</ts>
-      <source>
-        <name>Chicago Tribune</name>
-        <ts>2021-11-24T17:58:36Z</ts>
-        <createdBy>Elinore Wafer</createdBy>
-        <approvedBy>Shani Royson</approvedBy>
+        <ts>2021-07-27T09:06:51Z</ts>
+        <createdBy>Margarita Nathan</createdBy>
+        <approvedBy>Kalil Bendtsen</approvedBy>
       </source>
     </activity>
   </activities>
   <events>
     <event>
-      <predicate>livedIn</predicate>
-      <place>Sweden</place>
-      <predplace>livedIn Sweden</predplace>
-      <end>2018-12-13T15:50:13Z</end>
-      <start>2015-06-21T21:05:56Z</start>
+      <predicate>partneredWith</predicate>
+      <place>Swift Inc</place>
+      <id>/organization/10025.xml</id>
+      <predplace>partneredWith Swift Inc</predplace>
+      <end>2017-12-27T07:54:28Z</end>
+      <start>2015-01-28T01:02:56Z</start>
     </event>
   </events>
   <actions>
     <action>
-      <url>http://oracle.com</url>
+      <url>http://icio.us</url>
       <icon>faCog</icon>
     </action>
     <action>
-      <url>http://wufoo.com</url>
+      <url>http://webs.com</url>
       <icon>faCode</icon>
     </action>
     <action>
-      <url>https://amazon.com</url>
+      <url>https://newyorker.com</url>
       <icon>faSync</icon>
     </action>
   </actions>
+  <comments/>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics">
+    <sem:triple>
+      <sem:subject>http://example.org/person/10015.xml</sem:subject>
+      <sem:predicate>http://example.org/id</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">10015</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10015.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/givenname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Fredric</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10015.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/surname/</sem:predicate>
+      <sem:object datatype="http://www.w3.org/2001/XMLSchema#string">Nesbit</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10015.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10069.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10015.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10060.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10015.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10014.xml</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/person/10015.xml</sem:subject>
+      <sem:predicate>http://xmlns.com/foaf/0.1/knows/</sem:predicate>
+      <sem:object>http://example.org/person/10016.xml</sem:object>
+    </sem:triple>
+  </sem:triples>
 </person>
