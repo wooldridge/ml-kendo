@@ -11,19 +11,6 @@ const MyListView = () => {
 
   const mlContext = useContext(MLContext);
 
-  const formatDate = (iso) => {
-    const parsed = Date.parse(iso);
-    return parsed.toLocaleString('en-US',  {
-      weekday: 'short', // long, short, narrow
-      day: 'numeric', // numeric, 2-digit
-      year: 'numeric', // numeric, 2-digit
-      month: 'long', // numeric, 2-digit, long, short, narrow
-      hour: 'numeric', // numeric, 2-digit
-      minute: 'numeric', // numeric, 2-digit
-      second: 'numeric', // numeric, 2-digit
-  });
-  }
-
   const MyItemRender = (props) => {
     let item = props.dataItem;
     return (
@@ -132,7 +119,8 @@ const MyListView = () => {
       <div>
         {mlContext.total === 0 ? null : getPager()}
           <div style={{ minHeight: "518px" }}>
-            {mlContext.loading ? <LoadingPanel /> : <ListView
+            {mlContext.loading ? <LoadingPanel /> : 
+            <ListView
               data={mlContext.results}
               item={MyItemRender}
               style={{ width: "100%" }}

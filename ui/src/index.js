@@ -16,14 +16,6 @@ import { Grid, GridColumn as Column } from "@progress/kendo-react-grid";
 const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
-const MyItemRender = (props) => {
-  let item = props.dataItem;
-  return (
-      <div className='k-listview-item' style={{ padding: 10, borderBottom: '1px solid lightgrey'}}>
-          {item.uri}
-      </div>
-  );
-}
 
 // const initialType = "numeric";
 // const initialPageState = {
@@ -60,16 +52,10 @@ root.render(
         <hr />
         {/* <Results/>  */}
 
-        {/* TODO Results using ListView Kendo component */}
-        {/* https://www.telerik.com/kendo-react-ui/components/listview/ */}
-        {/* <ListView
-              data={searchResults.results}
-              item={MyItemRender}
-              style={{ width: "100%" }}
-        /> */}
         <MyListView 
           data={searchResults.results}
         />
+
         {/* <Pager
           skip={skip}
           take={take}
@@ -81,7 +67,7 @@ root.render(
           previousNext={pageState.previousNext}
           onPageChange={handlePageChange}
         /> */}
-        {/* TODO Paging useing Pager Kendo component */}
+        {/* TODO Paging using Pager Kendo component */}
         {/* https://www.telerik.com/kendo-react-ui/components/datatools/pager/ */}
 
 
