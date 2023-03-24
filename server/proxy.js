@@ -5,6 +5,7 @@ const cors = require('cors');
 const morgan = require('morgan');
 const { createProxyMiddleware, responseInterceptor } = require('http-proxy-middleware');
 const { XMLParser } = require('fast-xml-parser');
+const { handleDocumentsRes, handleSearchRes} = require('./handlers');
 
 const app = express();
 
@@ -49,15 +50,27 @@ const transformContent = parsed => {
   return parsed;
 };
 
-app.get('/v1/*', createProxyMiddleware({
+// app.get('/v1/*', createProxyMiddleware({
+app.all('/v1/*', createProxyMiddleware({
     target: API_URL,
     changeOrigin: true,
     auth: config.user["user-name"] + ":" + config.user.password,
     selfHandleResponse: true, // Required since tranforming response
     onProxyRes: responseInterceptor(async (responseBuffer, proxyRes, req, res) => {
-      const response = responseBuffer.toString('utf8'); // convert buffer to string
-      let transformed = transformContent(JSON.parse(response));
-      return JSON.stringify(transformed);
+      let result = responseBuffer;
+      switch (req.path) {
+        case '/v1/search':
+          result = handleSearchRes(responseBuffer, proxyRes, req, res);
+          break;
+        case '/v1/documents':
+          result = handleDocumentsRes(responseBuffer, proxyRes, req, res);
+          break;
+      }
+      console.log(result);
+      return result;
+      // const response = responseBuffer.toString('utf8'); // convert buffer to string
+      // let transformed = transformContent(JSON.parse(response));
+      // return JSON.stringify(transformed);
     })
 }));
 

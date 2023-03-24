@@ -72,24 +72,6 @@
       <latitude>39.8647</latitude>
       <longitude>-86.0136</longitude>
     </address>
-    <address>
-      <street>58973 Sage Street</street>
-      <city>Columbia</city>
-      <state>SC</state>
-      <postal>29203</postal>
-      <country>United States</country>
-      <latitude>34.0635</latitude>
-      <longitude>-81.0265</longitude>
-    </address>
-    <address>
-      <street>2734 Vera Circle</street>
-      <city>Boulder</city>
-      <state>CO</state>
-      <postal>80310</postal>
-      <country>United States</country>
-      <latitude>40.0878</latitude>
-      <longitude>-105.3735</longitude>
-    </address>
   </addresses>
   <schools>
     <school>

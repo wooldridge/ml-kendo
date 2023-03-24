@@ -84,24 +84,6 @@
       <latitude>32.3544</latitude>
       <longitude>-86.2843</longitude>
     </address>
-    <address>
-      <street>177 Judy Trail</street>
-      <city>Fullerton</city>
-      <state>CA</state>
-      <postal>92640</postal>
-      <country>United States</country>
-      <latitude>33.7862</latitude>
-      <longitude>-117.9309</longitude>
-    </address>
-    <address>
-      <street>7 Katie Drive</street>
-      <city>Pueblo</city>
-      <state>CO</state>
-      <postal>81005</postal>
-      <country>United States</country>
-      <latitude>38.2352</latitude>
-      <longitude>-104.66</longitude>
-    </address>
   </addresses>
   <schools>
     <school>

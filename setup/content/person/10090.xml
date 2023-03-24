@@ -77,24 +77,6 @@
       <latitude>47.6849</latitude>
       <longitude>-122.2968</longitude>
     </address>
-    <address>
-      <street>106 Dakota Parkway</street>
-      <city>Lafayette</city>
-      <state>IN</state>
-      <postal>47905</postal>
-      <country>United States</country>
-      <latitude>40.4001</latitude>
-      <longitude>-86.8602</longitude>
-    </address>
-    <address>
-      <street>1 Summerview Place</street>
-      <city>Charlotte</city>
-      <state>NC</state>
-      <postal>28247</postal>
-      <country>United States</country>
-      <latitude>35.0656</latitude>
-      <longitude>-80.8511</longitude>
-    </address>
   </addresses>
   <schools>
     <school>

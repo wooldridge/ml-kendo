@@ -72,24 +72,6 @@
       <latitude>40.2023</latitude>
       <longitude>-85.4082</longitude>
     </address>
-    <address>
-      <street>27 Prairie Rose Hill</street>
-      <city>El Paso</city>
-      <state>TX</state>
-      <postal>79928</postal>
-      <country>United States</country>
-      <latitude>31.6631</latitude>
-      <longitude>-106.1401</longitude>
-    </address>
-    <address>
-      <street>43 Parkside Terrace</street>
-      <city>Peoria</city>
-      <state>IL</state>
-      <postal>61614</postal>
-      <country>United States</country>
-      <latitude>40.7681</latitude>
-      <longitude>-89.6026</longitude>
-    </address>
   </addresses>
   <schools>
     <school>

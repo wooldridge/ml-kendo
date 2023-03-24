@@ -81,24 +81,6 @@
       <latitude>35.0763</latitude>
       <longitude>-101.8349</longitude>
     </address>
-    <address>
-      <street>1 Evergreen Road</street>
-      <city>Peoria</city>
-      <state>AZ</state>
-      <postal>85383</postal>
-      <country>United States</country>
-      <latitude>33.7169</latitude>
-      <longitude>-112.238</longitude>
-    </address>
-    <address>
-      <street>6009 Arrowood Circle</street>
-      <city>Woburn</city>
-      <state>MA</state>
-      <postal>01813</postal>
-      <country>United States</country>
-      <latitude>42.4464</latitude>
-      <longitude>-71.4594</longitude>
-    </address>
   </addresses>
   <schools>
     <school>
