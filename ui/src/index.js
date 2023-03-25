@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import MyListView from './MyListView';
+import '@progress/kendo-theme-bootstrap/dist/all.css'; // Needs to be before MyMap
 import MyMap from './MyMap';
 import { MLProvider } from './ML';
 
@@ -8,7 +8,6 @@ const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 root.render(
-  <>
     <MLProvider
       scheme="http"
       host="localhost"
@@ -18,10 +17,4 @@ root.render(
         <MyMap />
       </div>
     </MLProvider>
-    <style>
-      {`.k-listview-footer {
-            border-top-width: 0 !important;
-        }`}
-    </style>
-  </>
 );

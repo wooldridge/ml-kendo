@@ -167,7 +167,7 @@ export function MLProvider(props) {
         console.log("handleGeo response.data.results", response.data.results);
         // setResults(response.data.results);
         setLocations(getLocationsGeo(response.data.results));
-        // setTotal(response.data.total);
+        setTotal(response.data.total);
         // setLoading(false);
       }
     } catch (error) {
