@@ -9,12 +9,10 @@ const MLContext = createContext({
   pageLength: 10,
   total: 0,
   loading: false,
-  selected: '',
   document: {},
   facets: {},
   handlePaging: () => {},
   handleQuery: () => {},
-  handleSelected: () => {},
   handleGeo: () => {},
   handleDocument: () => {},
   handleFacets: () => {},
@@ -29,7 +27,6 @@ export function MLProvider(props) {
   const [pageLength, setPageLength] = useState(10);
   const [total, setTotal] = useState(0);
   const [loading, setLoading] = useState(false);
-  const [selected, setSelected] = useState('');
   const [document, setDocument] = useState({});
   const [facets, setFacets] = useState(null);
 
@@ -229,11 +226,6 @@ export function MLProvider(props) {
     setStart(event.skip + 1);
   }
 
-  const handleSelected = (selected) => {
-    console.log("handleSelected", selected);
-    setSelected(selected);
-  }
-
   const context = {
     results: results,
     locations: locations,
@@ -242,12 +234,10 @@ export function MLProvider(props) {
     pageLength: pageLength,
     total: total,
     loading: loading,
-    selected: selected,
     document: document,
     facets: facets,
     handlePaging: handlePaging,
     handleQuery: handleQuery, 
-    handleSelected: handleSelected,
     handleGeo: handleGeo,
     handleDocument: handleDocument,
     handleFacets: handleFacets,

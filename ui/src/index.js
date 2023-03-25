@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import MyGrid from './MyGrid';
+import MyListView from './MyListView';
 import MyMap from './MyMap';
 import { MLProvider } from './ML';
 
@@ -7,7 +9,7 @@ const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 root.render(
-  <React.Fragment>
+  <>
     <MLProvider
       scheme="http"
       host="localhost"
@@ -22,5 +24,5 @@ root.render(
             border-top-width: 0 !important;
         }`}
     </style>
-  </React.Fragment>
+  </>
 );
