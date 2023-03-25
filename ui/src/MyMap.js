@@ -2,6 +2,7 @@ import React, { useState, useContext, useEffect } from 'react';
 import { Map, MapLayers, MapTileLayer, MapMarkerLayer, 
   MapShapeLayer, MapMarkerLayerTooltip} from "@progress/kendo-react-map";
 import MLContext from './ML';
+import MySelected from "./MySelected";
 import MyWindow from "./MyWindow";
 import shapes from "./us-states.json";
 import './MyMap.css';
@@ -13,7 +14,7 @@ const tileUrl = (e) =>
 const attribution =
   '&copy; <a href="https://osm.org/copyright">OpenStreetMap contributors</a>';
 
-const MyMap = (props) => {
+const MyMap = () => {
 
   const mlContext = useContext(MLContext);
 
@@ -69,7 +70,7 @@ const MyMap = (props) => {
     mlContext.handleGeo(event.shape.dataItem.geometry.coordinates);
   }
 
-  // MArker clicks trigger a document load
+  // Marker clicks trigger a document load
   const handleMarkerClick = (event) => {
     console.log('handleMarkerClick', event);
     setVisible(true);
@@ -94,9 +95,7 @@ const MyMap = (props) => {
 
   return (
     <div>
-      { selected && mlContext.total && <div id="selectedContainer">
-        <span id="selected">{selected}</span> has <span id="numResults">{mlContext.total}</span> results
-      </div> }
+      <MySelected selected={selected} total={mlContext.total} />
       <Map center={center} zoom={5}  
         onShapeClick={handleShapeClick} 
         onMarkerClick={handleMarkerClick} 
