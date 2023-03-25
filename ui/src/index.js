@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import MyGrid from './MyGrid';
 import MyListView from './MyListView';
 import MyMap from './MyMap';
 import { MLProvider } from './ML';
