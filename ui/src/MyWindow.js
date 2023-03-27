@@ -43,7 +43,7 @@ const MyWindow = (props) => {
       initialHeight={540}
       initialWidth={440}
       initialTop={20}
-      initialLeft={1000}
+      initialLeft={1200}
     >
       { person && <div style={{display: "flex", justifyContent: "space-between"}}>
         <div>

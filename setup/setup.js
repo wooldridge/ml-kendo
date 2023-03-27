@@ -273,7 +273,7 @@ const start = async () => {
   await createForest(config.databases.content.name);
   await createForest(config.databases.modules.name);
   await createREST();
-  await createXDBC();
+  // await createXDBC(); // Not needed
   await createRole();
   await createUser();
   await setRESTAuth();

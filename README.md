@@ -1,24 +1,28 @@
 # ml-kendo
 
+A React application that demonstrates the KendoReact Map component working with MarkLogic geospatial data:
+
+- On load, uses MarkLogic faceted search results to display a heat map using a KendoReact Map shapes layer of U.S. states.
+- On a U.S. state click, uses MarkLogic geospatial point search to retrieve marker results based on the state's GeoJSON polygon coordinates.
+- On a marker click, retrieves a MarkLogic document and displays it in a KendoReact Window (that features a simple Data Grid).
+
 ## Requirements
 
-- MarkLogic Server 10
-- Node.js 16 and npm 8
+- MarkLogic Server 10+
+- Node.js 16+ and npm 8+
 
 ## Setup
 
-1. Copy `config_sample.js` and save as `config.js` in project root.
+1. If needed, edit `config.js` for your MarkLogic environment.
 
-2. Edit `config.js` for your environment. At a minimum, edit `config.auth` for your MarkLogic Server.
-
-3. In a new terminal, install the project dependencies from the project root using npm:
+2. In a new terminal, install the project dependencies from the project root using npm:
 ```
 cd ml-kendo
 npm install
 ```
 This will install dependencies for the setup script, proxy server, and React UI. You can also install dependencies separately by running `npm install` from each subdirectory.
 
-4. From the project root, run the setup script:
+3. From the project root, run the setup script:
 ```
 node setup
 ```
@@ -28,17 +32,17 @@ After setup, you can view your MarkLogic Server configuration in the Admin UI (h
 
 ## Run the middle tier 
 
-1. From the project root, run the proxy server, which is the middle tier between the UI and the MarkLogic Server:
+1. From the project root, run the Node.js Express proxy server, which is the middle tier between the React applicaation and the MarkLogic Server:
 ```
 node server
 ```
 
 ## Run the UI 
 
-1. In a new terminal, run the development UI server from the ui directory:
+1. In a new terminal, run the React applicaation from the `ui` directory:
 ```
 cd ml-kendo/ui
 npm start
 ```
 
-2. Open the UI in your browser: http://localhost:3000
+2. Open the React applicaation in your browser: http://localhost:3000

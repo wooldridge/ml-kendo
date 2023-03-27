@@ -34,23 +34,6 @@ const xmlToJson = xml => {
   return json;
 };
 
-const transformContent = parsed => {
-  if (parsed.results && parsed.results.length) {
-    parsed.results.forEach((r, i) => {
-      if (r.extracted && r.extracted.content) {
-        // Convert extracted XML to JSON and replace for each result
-        const json = xmlToJson(r.extracted.content[0]);
-        parsed.results[i].extracted = json;
-        // Add entity type as property to each result
-        const entityType = Object.keys(json)[0];
-        parsed.results[i].entityType = entityType;
-      }
-    })
-  }
-  return parsed;
-};
-
-// app.get('/v1/*', createProxyMiddleware({
 app.all('/v1/*', createProxyMiddleware({
     target: API_URL,
     changeOrigin: true,
@@ -66,11 +49,8 @@ app.all('/v1/*', createProxyMiddleware({
           result = handleDocumentsRes(responseBuffer, proxyRes, req, res);
           break;
       }
-      console.log(result);
+      // console.log(result);
       return result;
-      // const response = responseBuffer.toString('utf8'); // convert buffer to string
-      // let transformed = transformContent(JSON.parse(response));
-      // return JSON.stringify(transformed);
     })
 }));
 
